@@ -1,4 +1,4 @@
 # Demo
 this is my first Git repository.
 <br>
-Author - Himanshu Rathod
+Author - Himanshu Rathore
